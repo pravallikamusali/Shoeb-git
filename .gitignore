@@ -1,0 +1,13 @@
+.DS_Store
+thumbs.db
+*.log
+node_modules/
+node_modules/*
+npm-debug.log
+test/*.log
+.*.sw[op]
+.idea
+.idea/*
+/.gitignore
+*.sln
+*.njsproj
